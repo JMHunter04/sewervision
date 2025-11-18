@@ -1,2 +1,5 @@
 # sewervision
-internship with Sheffield University 
+internship with The University of Sheffield
+In this project I worked with Dr Lyudmila Mihaylova and Dr Aristeidis Karnezis where I was given the task to create a machine vision system to detect defects in a sewer system.
+
+The Water Research dataset used was from SPRING using this link: https://ukwir2021.my.site.com/spring/s/login/?ec=302&startURL=%2Fspring%2Fs%2Fuser-voice%2Fa0JNz0000005dAPMAY%2Funited-utilities-artificial-intelligence-and-sewers
